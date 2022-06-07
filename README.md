@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ReactJS and close stuff;
 - :telescope: Open to work, intership, mostly remotely. Open to relocating.
 - Stack : React / Redux RTK / NodeJS
-- CV: <a href="http://example.com/](https://cv.hexlet.io/resumes/919" target="_blank">Hexlet</a>
+- CV: <a href="https://cv.hexlet.io/resumes/919" target="_blank">Hexlet</a>
 - :mailbox: johncom1000@mail.ru
 - <a href="https://johnzoidy.github.io/" target="_blank">My GitHub Page</a> - welcome! You can see all what I do :)
 
