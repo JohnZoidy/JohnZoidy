@@ -5,6 +5,7 @@
 - Stack : React / Redux RTK / NodeJS
 - CV: [Hexlet](https://cv.hexlet.io/resumes/919)
 - :mailbox: johncom1000@mail.ru
+- [My GitHub Page](https://johnzoidy.github.io/) - welcome! You can see all what I do :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnZoidy&layout=compact&hide=css,html)
 ![Rustems's github stats](https://github-readme-stats.vercel.app/api?username=JohnZoidy&count_private=true&show_icons=true&theme=onedark)
