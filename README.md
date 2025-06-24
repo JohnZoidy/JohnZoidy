@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evgeniy D.
 - 👀 I’m interested in web-development. Also like rock music, playing guitar, bicycling, good memes :)
-- Stack : React / Redux RTK / NodeJS
+- Stack : React / Redux RTK / Apollo GraphQl / SCSS
 - :mailbox: johncom1000@mail.ru
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnZoidy&layout=compact&hide=css,html)
